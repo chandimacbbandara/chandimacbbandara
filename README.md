@@ -59,7 +59,7 @@ Welcome to my GitHub! I'm a software developer who enjoys building practical, re
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: [chandima-bandara-b79aba301](https://www.linkedin.com/in/chandima-bandara-b79aba301)
+- 💼 LinkedIn: [Chandima Bandara](https://www.linkedin.com/in/chandima-bandara-b79aba301)
 - 📧 Email: chandimacbbandara@gmail.com
 
 ---
