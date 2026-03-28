@@ -2,7 +2,7 @@
 
 <div align="center">
 
-✨ *Building practical software. Learning by doing. Growing every day.* ✨
+✨ *Building practical software. Learning by doing.* ✨
 
 <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Developer;Web+%7C+Cloud+%7C+Machine+Learning;Always+Learning+New+Things" />
 
@@ -13,17 +13,17 @@
 ## 🚀 About Me
 
 * 🎓 Student ID: **IT24100307**
-* 💡 Passionate about building **clean, scalable, and real-world software**
-* 🌱 Currently exploring **modern tools, frameworks, and best practices**
-* 🤝 Open to **collaboration & open-source contributions**
+* 💡 Interested in **clean, scalable, real-world software**
+* 🌱 Exploring **modern tools, frameworks, and engineering practices**
+* 🤝 Open to **collaboration & open-source**
 
 ---
 
 ## 🔭 Current Focus
 
 * 🌐 Modern Web Development
-* ☁️ Cloud & Deployment Workflows
-* 🤖 Machine Learning & Data Projects
+* ☁️ Cloud & Deployment
+* 🤖 Machine Learning
 
 ---
 
@@ -62,9 +62,18 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chandimacbbandara&show_icons=true&theme=radical&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandimacbbandara&layout=compact&theme=radical&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chandimacbbandara&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandimacbbandara&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=chandimacbbandara&theme=radical&hide_border=true" />
 </div>
 
 ---
@@ -72,7 +81,7 @@
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chandimacbbandara&theme=radical&row=1&column=6&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chandimacbbandara&theme=radical&no-frame=true&margin-w=10" />
 </div>
 
 ---
