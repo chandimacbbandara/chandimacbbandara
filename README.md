@@ -1,16 +1,25 @@
-# Hi there, I'm Chandima Bandara 👋
+# Hello, I’m Chandima Bandara 👋
 
-Welcome to my GitHub! I'm a software developer who enjoys building practical, real-world solutions and improving a little every day.
+Thanks for stopping by my GitHub profile.
+I’m a software developer who enjoys turning ideas into useful, real-world projects.
+I like learning by building, sharing what I learn, and improving step by step.
 
-## 🚀 About Me
+---
+
+## A quick intro
 
 - 🎓 Student ID: **IT24100307**
-- 💻 Interested in building efficient and scalable software
-- 🌱 Continuously learning new tools, frameworks, and best practices
-- 🎯 Focused on meaningful projects that solve real problems
-- 🤝 Open to collaboration and open-source contributions
+- 💡 I’m interested in clean, scalable, and practical software
+- 🌱 I’m always exploring new tools, frameworks, and engineering practices
+- 🤝 I’m open to collaboration and open-source work
 
-## 🛠️ Tech Stack
+## What I’m focusing on right now
+
+- Modern web development
+- Cloud and deployment workflows
+- Machine learning and data-focused projects
+
+## Tech I use
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -35,13 +44,7 @@ Welcome to my GitHub! I'm a software developer who enjoys building practical, re
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-## 🔭 What I'm Working On
-
-- Advanced web development and cloud technologies
-- Open-source collaboration and modern web apps
-- Exploring machine learning and data science
-
-## 📊 GitHub Stats
+## GitHub stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chandimacbbandara&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -51,13 +54,13 @@ Welcome to my GitHub! I'm a software developer who enjoys building practical, re
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandimacbbandara&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-## 🏆 GitHub Trophies
+## GitHub trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chandimacbbandara&theme=radical&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
-## 📫 Connect with Me
+## Let’s connect
 
 - 💼 LinkedIn: [Chandima Bandara](https://www.linkedin.com/in/chandima-bandara-b79aba301)
 - 📧 Email: chandimacbbandara@gmail.com
@@ -65,5 +68,5 @@ Welcome to my GitHub! I'm a software developer who enjoys building practical, re
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/chandimacbbandara">Chandima Bandara</a></i>
+  <i>⭐️ Thanks for visiting my profile</i>
 </div>
