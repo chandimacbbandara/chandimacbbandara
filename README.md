@@ -117,16 +117,19 @@ The React Native mobile client for the SCMS platform, supporting secure student 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandimacbbandara&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0d1117)
+[![GitHub Streak](https://streak-stats.demolab.com?user=chandimacbbandara&theme=dark&hide_border=true&background=0d1117)](https://github.com/chandimacbbandara)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=chandimacbbandara&theme=dark&hide_border=true&background=0d1117)
+<br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandimacbbandara&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chandimacbbandara&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&hide_border=true)](https://github.com/chandimacbbandara)
+
+<br>
+
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandimacbbandara&theme=github_dark)](https://github.com/chandimacbbandara)
 
 </div>
 
 ---
-
 ## Current Focus
 
 - Designing and deploying LLM-powered systems using RAG architectures
