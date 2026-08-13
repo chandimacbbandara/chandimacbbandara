@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
-<h1>Hi, I'm Chandima 👋</h1>
+<h1>Hi, I'm Chandima</h1>
 <h3>I build things that learn, think, and ship.</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Undergraduate+IT+Engineer;Full-Stack+Developer;AI+%2F+ML+Engineer;RAG+%26+LLM+Pipeline+Builder;Always+Shipping+Something+New" alt="Typing SVG" />
@@ -19,7 +19,7 @@
 
 ---
 
-### 🧭 About Me
+### About Me
 
 ```python
 class ChandimaBandara:
@@ -30,14 +30,19 @@ class ChandimaBandara:
         self.philosophy = "Clean code. Thoughtful design. Ship things people actually use."
 
     def say_hi(self):
-        return "Let's build something worth deploying 🚀"
+        return "Let's build something worth deploying"
+
+
+if __name__ == "__main__":
+    me = ChandimaBandara()
+    print(me.say_hi())
 ```
 
 I'm an undergraduate at the **Sri Lanka Institute of Information Technology (SLIIT)**, specializing in **Data Science**. My work lives at the intersection of intelligent systems and practical software engineering — production-grade Spring Boot backends, React Native mobile apps, RAG-based LLM pipelines, and machine learning models trained, evaluated, and deployed live on Hugging Face.
 
 ---
 
-### 🛠️ Tech Arsenal
+### Tech Arsenal
 
 <div align="center">
 
@@ -76,21 +81,21 @@ I'm an undergraduate at the **Sri Lanka Institute of Information Technology (SLI
 
 ---
 
-### 🎯 Current Focus
+### Current Focus
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🤖 AI / ML**
-- Designing & deploying RAG-based LLM systems
+**AI / ML**
+- Designing and deploying RAG-based LLM systems
 - Training and evaluating ML models for production
-- Vector search & retrieval pipelines with FAISS
+- Vector search and retrieval pipelines with FAISS
 
 </td>
 <td width="50%" valign="top">
 
-**⚙️ Engineering**
+**Engineering**
 - Scalable REST APIs with Spring Boot
 - Cross-platform mobile apps with React Native
 - Clean, accessible, performant web interfaces
@@ -101,12 +106,12 @@ I'm an undergraduate at the **Sri Lanka Institute of Information Technology (SLI
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chandimacbbandara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandimacbbandara&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
+<img src="https://github-readme-stats.vercel.app/api?username=chandimacbbandara&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandimacbbandara&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="38%" />
 
 <br><br>
 
@@ -120,7 +125,7 @@ I'm an undergraduate at the **Sri Lanka Institute of Information Technology (SLI
 
 ---
 
-### 🎓 Education
+### Education
 
 <table>
 <tr>
@@ -136,7 +141,7 @@ BSc (Hons) in Information Technology — *Specialization: Data Science*
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 <div align="center">
 
@@ -148,8 +153,10 @@ Open to **internships**, **collaborations**, and **entry-level Software / AI Eng
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 <i>Build with purpose. Code with clarity. Learn without limits.</i>
+
+<br><br>
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXU5Y2NpOXRkbG5kenJkd2N6amJwMmJ3dzl0eXAzM2o4anpyY2JwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gutZ5Pm6Xl62eIf5RZ/giphy.gif" width="480">
 
 </div>
